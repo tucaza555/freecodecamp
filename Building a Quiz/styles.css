@@ -44,7 +44,7 @@
   nav > ul {
     display: flex;
       justify-content: space-evenly;
-    flex-wrap: wrap;
+      flex-wrap: wrap;
       align-items: center;
       padding-inline-start: 0;
       margin-block: 0;
